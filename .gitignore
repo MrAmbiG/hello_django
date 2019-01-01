@@ -1,0 +1,6 @@
+venv_django0
+venv_django0/*
+venv_*
+__pycache__
+__pycache__/
+__pycache__/*
